@@ -17,12 +17,9 @@
     "url": "https://github.com/StephenBuley/AoC2021/issues"
   },
   "homepage": "https://github.com/StephenBuley/AoC2021#readme",
-  "dependencies": {
-    "typescript": "^5.2.2"
-  },
   "devDependencies": {
     "@types/node": "^20.5.6",
     "nodemon": "^3.0.1",
-    "tsc": "^2.0.4"
+    "typescript": "^5.2.2"
   }
 }
